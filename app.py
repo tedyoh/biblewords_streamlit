@@ -41,7 +41,6 @@ bible_verses = {
     ]
     };
     # 다른 감정들도 여기에 추가...
-}
 
 def get_verses(situation):
     situation = situation.lower()
